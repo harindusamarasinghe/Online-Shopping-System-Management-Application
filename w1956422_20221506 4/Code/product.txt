@@ -1,0 +1,1 @@
+C001,SHIRT,4,100.0,S,,Clothing
